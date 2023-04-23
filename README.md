@@ -1,5 +1,6 @@
 # forms
 [![Build status](https://ci.appveyor.com/api/projects/status/ootl32qh6ims7sfm/branch/main?svg=true)](https://ci.appveyor.com/project/nikulin68/forms/branch/main)
+![CI](https://github.com/nikulin68/forms//actions/workflows/web.yml/badge.svg)
 
 Домашнее задание к занятию "Работа с HTML-формами"
 
